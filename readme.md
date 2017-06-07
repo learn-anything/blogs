@@ -4,6 +4,11 @@ This is an extension to [Learn Anything Search Engine](https://learn-anything.xy
 
 Pull requests are welcome. Thank you. 💙
 
+#### Related websites / repositories 
+
+- [engineering blogs](https://github.com/kilimchoi/engineering-blogs)
+- [data science blogs](https://github.com/rushter/data-science-blogs)
+
 # Blogs
 
 # machine learning
