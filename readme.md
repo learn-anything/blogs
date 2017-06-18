@@ -8,6 +8,7 @@ Pull requests are welcome. Thank you. 💙
 
 - [engineering blogs](https://github.com/kilimchoi/engineering-blogs)
 - [data science blogs](https://github.com/rushter/data-science-blogs)
+- [engineering blogs of companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies)
 
 # Blogs
 
