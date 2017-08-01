@@ -1,4 +1,16 @@
-# Blogs all can learn from 📚
+<h1 align="center">  Blogs all can learn from 📚 </h1>
+
+<div align="center">
+<a href="https://www.patreon.com/learnanything">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/learn-anything/blogs/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
+<h1 align="center"> Description 📕</h1>
+
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting blogs one can read though to learn new things and discover new insights. 🔭
 
@@ -10,7 +22,7 @@ Pull requests are welcome. Thank you. 💙
 - [data science blogs](https://github.com/rushter/data-science-blogs)
 - [engineering blogs of companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies)
 
-# Blogs
+<h1 align="center">   Blogs </h1>
 
 # machine learning
 
