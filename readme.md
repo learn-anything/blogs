@@ -529,6 +529,8 @@ does amazing research on ML
 
 ## [stuff gil says 🗃️](http://stuff-gil-says.blogspot.nl/)
 
+## [it blues 🗃️](http://itblues.pl/)
+
 
 # computer graphics
 
