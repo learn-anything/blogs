@@ -48,6 +48,8 @@ Pull requests are welcome. Thank you. 💙
 - [FastML 🗃️](http://www.fastml.com/)
 - [the neural perspective 🗃️](https://theneuralperspective.com/)
 - [sourabh bajaj 🗃️](http://sourabhbajaj.com/)
+- [deep dojo](http://deepdojo.com/)
+- [ryan dahl](http://tinyclouds.org/)
 
 ### Code
 - [loreto parisi 🗃️](http://loretoparisi.com/)
@@ -188,6 +190,7 @@ Pull requests are welcome. Thank you. 💙
 - [perfection kills 🗃️](http://perfectionkills.com/)
 - [feross 🗃️](https://feross.org/)
 - [david walsh 🗃️](https://davidwalsh.name/tutorials/features)
+- [playfulJS](http://www.playfuljs.com)
 
 ### Security
 - [zdziarski's blog of things 🗃️](https://www.zdziarski.com/blog/)
@@ -208,6 +211,7 @@ Pull requests are welcome. Thank you. 💙
 - [adam paszke 🗃️](http://apaszke.github.io/posts.html)
 - [rylan schaeffer 🗃️](http://rylanschaeffer.github.io/content/research.html)
 - [ai roadmap institute 🗃️](https://medium.com/@AIroadmap)
+- [the BAIR blog](http://bair.berkeley.edu/blog/about/)
 
 ### V8
 - [wingolog 🗃️](https://wingolog.org/)
