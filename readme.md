@@ -154,6 +154,17 @@ Pull requests are welcome. Thank you. 💙
 - [hackthology](http://hackthology.com/index.html)
 - [anish athalye](http://www.anishathalye.com/)
 - [jeaye](https://blog.jeaye.com)
+- [stuff with stuff](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
+- [Brian Steffens](https://briansteffens.github.io/) 
+- [lord.io](https://lord.io/blog/)
+- [tonsky](http://tonsky.livejournal.com/)
+- [Mark Scholten](https://www.mpscholten.de/)
+- [dosync](http://swannodette.github.io/)
+- [Eric Gourlaouen](http://blog.ericgourlaouen.com/)
+- [HookRace](https://hookrace.net/)
+- [antirez](http://antirez.com/latest/0)
+- [Nick Craver](https://nickcraver.com/blog/)
+- [Karol Kuczmarski](http://xion.io/archives.html)
 
 ### Go
 - [dmitri shuralyov](https://dmitri.shuralyov.com/blog)
@@ -167,6 +178,8 @@ Pull requests are welcome. Thank you. 💙
 - [npf](https://npf.io/blog/)
 - [william kennedy](https://www.goinggo.net/)
 - [gopher academy](https://blog.gopheracademy.com/)
+- [Carlos Alexandro](https://carlosbecker.com/archive/)
+- [Going Go](https://www.goinggo.net/)
 
 ### Math
 - [shape operator](http://www.shapeoperator.com/)
@@ -176,6 +189,7 @@ Pull requests are welcome. Thank you. 💙
 - [nicky case](http://blog.ncase.me/)
 - [the polymath blog](https://polymathprojects.org/)
 - [math ⋂ programming](https://jeremykun.com/)
+- [quantitative journey](http://outlace.com/)
 
 ### Javascript
 - [wavesoft](http://wavesoft.github.io/)
@@ -221,6 +235,7 @@ Pull requests are welcome. Thank you. 💙
 - [keathley](http://keathley.io/)
 - [to overcome](http://www.parsonsmatt.org/)
 - [CF](http://xn--wxak1a.com/blog/)
+- [Stephen Diehl](http://www.stephendiehl.com/posts/protolude.html)
 
 ### Perl
 - [perl tricks](http://perltricks.com/)
@@ -241,6 +256,7 @@ Pull requests are welcome. Thank you. 💙
 - [ash furrow](https://ashfurrow.com/)
 - [vinh nguyen](https://ninjapro.wordpress.com/)
 - [NSHipster](http://nshipster.com/)
+- [Fresh swift](http://freshswift.net/)
 
 ### Webgl
 - [brandon jones](http://blog.tojicode.com/)
@@ -260,11 +276,13 @@ Pull requests are welcome. Thank you. 💙
 
 ### Haskell
 - [joy of haskell](https://joyofhaskell.com/blog.html)
-- [vincent hanquez](http://tab.snarc.org/)
-- [nikita volkov](http://nikita-volkov.github.io/)
+- [Vincent Hanquez](http://tab.snarc.org/)
+- [Nikita Volkov](http://nikita-volkov.github.io/)
+- [FPcomplete](https://www.fpcomplete.com/)
 
 ### Java
 - [stuff gil says](http://stuff-gil-says.blogspot.nl/)
+- [IT blues](http://itblues.pl)
 
 ### Computer Graphics
 - [0 fps](https://0fps.net/)
@@ -310,13 +328,15 @@ Pull requests are welcome. Thank you. 💙
 ### iOS
 - [luke zhao](http://lkzhao.com/)
 - [CALayer](http://calayer.com/)
+- [Leo Jweda](https://www.leojweda.com/)
 
 ### Ruby
 - [javivelasco](http://javivelasco.com/blog/)
 - [alyssa.is](https://alyssa.is/)
 
 ### Startups
-- [paul graham](http://www.paulgraham.com/articles.html)
+- [Paul Graham](http://www.paulgraham.com/articles.html)
+- [Elad's blog](http://blog.eladgil.com/)
 
 ### Php
 - [nikic](http://nikic.github.io/)
@@ -325,7 +345,7 @@ Pull requests are welcome. Thank you. 💙
 - [SpritesMods](http://spritesmods.com/)
 
 ### Brain Computer Interface
-- [alexandre barachant](http://alexandre.barachant.org/blog/)
+- [Alexandre Barachant](http://alexandre.barachant.org/blog/)
 
 ### Natural Language Processing
 - [natural language processing](https://nlpers.blogspot.nl/)
@@ -338,6 +358,10 @@ Pull requests are welcome. Thank you. 💙
 - [brilliantly wrong](https://arogozhnikov.github.io/)
 - [AMVA4NewPhysics](https://amva4newphysics.wordpress.com/)
 
+### Vim
+- [AirBlade Software](https://airbladesoftware.com/notes/)
+- [bluz71](https://bluz71.github.io/)
+
 ### React
 - [brent vatne](http://brentvatne.ca/)
 - [build with react](http://buildwithreact.com/)
@@ -349,6 +373,12 @@ Pull requests are welcome. Thank you. 💙
 - [michael tsai](https://mjtsai.com/blog/)
 - [defaults write](http://www.defaults-write.com/)
 
+### Scala
+- [higher order](http://blog.higher-order.com/)
+
+### CSS 
+- [css wizardry](https://csswizardry.com/archive/)
+
 ### Other
 - [pavel miroshenko](https://pavel.miroshnichen.co/)
 - [dean sherwood](http://deansherwood.com/deansblog)
@@ -356,9 +386,3 @@ Pull requests are welcome. Thank you. 💙
 - [today I learned](https://til.hashrocket.com/)
 - [daring fireball](https://til.hashrocket.com/)
 - [disregard everything I say](http://disregardeverythingisay.com/)
-
-### Scala
-- [higher order](http://blog.higher-order.com/)
-
-### Css
-- [css wizardry](https://csswizardry.com/archive/)
