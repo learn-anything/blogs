@@ -1,13 +1,13 @@
-# Blogs all can learn from 🗃️ [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-## Description 📕
-Here is a curated list of all the interesting blogs one can read though to learn new things and discover new insights. 
+# Interesting Blogs [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-Pull requests are welcome. Thank you. 💙
+This is a curated list of all the interesting blogs.
 
-### Related websites / repositories 
-- [engineering blogs](https://github.com/kilimchoi/engineering-blogs)
-- [data science blogs](https://github.com/rushter/data-science-blogs)
-- [engineering blogs of companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies)
+Pull requests are welcome. Thank you. 💜
+
+## Related websites / repositories 
+- [Engineering blogs](https://github.com/kilimchoi/engineering-blogs)
+- [Data science blogs](https://github.com/rushter/data-science-blogs)
+- [Engineering blogs of companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies)
 
 ## Blogs 
 ### Machine Learning
@@ -386,3 +386,6 @@ Pull requests are welcome. Thank you. 💙
 - [today I learned](https://til.hashrocket.com/)
 - [daring fireball](https://til.hashrocket.com/)
 - [disregard everything I say](http://disregardeverythingisay.com/)
+
+## Contribute 
+If you found a blog that you really like or have made, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
