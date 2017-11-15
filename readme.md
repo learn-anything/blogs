@@ -193,6 +193,7 @@ Pull requests are welcome. Thank you. 💜
 
 ### Javascript
 - [wavesoft](http://wavesoft.github.io/)
+- [Javascript playground](https://javascriptplayground.com)
 - [jason format](https://jasonformat.com/)
 - [max ogden](https://maxogden.com/index.html)
 - [andré staltz](http://staltz.com/blog.html)
