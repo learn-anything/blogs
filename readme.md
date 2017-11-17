@@ -251,16 +251,17 @@ Pull requests are welcome. Thank you. 💜
 - [david robinson](http://varianceexplained.org/posts/)
 
 ### Swift
-- [michael kyriacou](http://codeforcaffeine.com/)
-- stylekit
-- [ankit](http://ankit.im)
-- [ash furrow](https://ashfurrow.com/)
-- [vinh nguyen](https://ninjapro.wordpress.com/)
+- [Michael Kyriacou](http://codeforcaffeine.com/)
+- [Eon codes](http://eon.codes)
+- [Ankit](http://ankit.im)
+- [Ash furrow](https://ashfurrow.com/)
+- [Vinh nguyen](https://ninjapro.wordpress.com/)
 - [NSHipster](http://nshipster.com/)
 - [Fresh swift](http://freshswift.net/)
+- [Swift by Sundell](https://www.swiftbysundell.com/)
 
 ### Webgl
-- [brandon jones](http://blog.tojicode.com/)
+- [Brandon jones](http://blog.tojicode.com/)
 
 ### Technology
 - [tech specs](https://techspecs.blog/)
