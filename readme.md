@@ -259,6 +259,7 @@ Pull requests are welcome. Thank you. 💜
 - [NSHipster](http://nshipster.com/)
 - [Fresh swift](http://freshswift.net/)
 - [Swift by Sundell](https://www.swiftbysundell.com/)
+- [Yoans Kolb](yonas kolb)
 
 ### Webgl
 - [Brandon jones](http://blog.tojicode.com/)
