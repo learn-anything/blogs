@@ -235,7 +235,7 @@ Pull requests are welcome. Thank you. 💜
 ### Functional Programming
 - [keathley](http://keathley.io/)
 - [to overcome](http://www.parsonsmatt.org/)
-- [CF](http://xn--wxak1a.com/blog/)
+- [Robert Widmann](http://xn--wxak1a.com/blog/)
 - [Stephen Diehl](http://www.stephendiehl.com/posts/protolude.html)
 
 ### Perl
