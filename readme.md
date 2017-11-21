@@ -382,6 +382,9 @@ Pull requests are welcome. Thank you. 💜
 ### CSS 
 - [css wizardry](https://csswizardry.com/archive/)
 
+### Nix
+- [Garbas](https://garbas.si)
+
 ### Company blogs
 - [Airbnb engineering](https://medium.com/airbnb-engineering)
 
