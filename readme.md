@@ -52,6 +52,7 @@ Pull requests are welcome. Thank you. 💜
 - [ryan dahl](http://tinyclouds.org/)
 
 ### Code
+- [Brandon Bloom](https://www.brandonbloom.name/)
 - [loreto parisi](http://loretoparisi.com/)
 - [Rok Garbas](https://garbas.si)
 - [marc qualie](https://marcqualie.com/)
