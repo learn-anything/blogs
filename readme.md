@@ -53,6 +53,7 @@ Pull requests are welcome. Thank you. 💜
 
 ### Code
 - [loreto parisi](http://loretoparisi.com/)
+- [Rok Garbas](https://garbas.si)
 - [marc qualie](https://marcqualie.com/)
 - [amjad masad](https://amasad.me/)
 - [jan hunermann](http://lab.janhuenermann.de/)
@@ -381,9 +382,6 @@ Pull requests are welcome. Thank you. 💜
 
 ### CSS 
 - [css wizardry](https://csswizardry.com/archive/)
-
-### Nix
-- [Garbas](https://garbas.si)
 
 ### Company blogs
 - [Airbnb engineering](https://medium.com/airbnb-engineering)
