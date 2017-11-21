@@ -382,6 +382,9 @@ Pull requests are welcome. Thank you. 💜
 ### CSS 
 - [css wizardry](https://csswizardry.com/archive/)
 
+### Company blogs
+- [Airbnb engineering](https://medium.com/airbnb-engineering)
+
 ### Other
 - [pavel miroshenko](https://pavel.miroshnichen.co/)
 - [dean sherwood](http://deansherwood.com/deansblog)
