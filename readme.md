@@ -11,8 +11,8 @@ Pull requests are welcome. Thank you. 💜
 
 ## Blogs 
 ### Machine Learning
-- [christopher olaChristopher Olahh](http://colah.github.io/)
-- [igor babuschkin](https://babushk.in/archive.html)
+- [Christopher Olah](http://colah.github.io/)
+- [Igor Babuschkin](https://babushk.in/archive.html)
 - [max welling](http://scientificpearlsofwisdom.blogspot.nl/)
 - [stephan hoyer](Stephan%20Hoyer)
 - [tim head](http://betatim.github.io/)
@@ -396,5 +396,8 @@ Pull requests are welcome. Thank you. 💜
 - [daring fireball](https://til.hashrocket.com/)
 - [disregard everything I say](http://disregardeverythingisay.com/)
 
-## Contribute 
+## Contributing
 If you found a blog that you really like or have made, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
