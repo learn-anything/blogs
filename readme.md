@@ -11,7 +11,7 @@ Pull requests are welcome. Thank you. 💜
 
 ## Blogs 
 ### Machine Learning
-- [christopher olah](http://colah.github.io/)
+- [christopher olaChristopher Olahh](http://colah.github.io/)
 - [igor babuschkin](https://babushk.in/archive.html)
 - [max welling](http://scientificpearlsofwisdom.blogspot.nl/)
 - [stephan hoyer](Stephan%20Hoyer)
@@ -31,6 +31,7 @@ Pull requests are welcome. Thank you. 💜
 - [i’m a bandit](https://blogs.princeton.edu/imabandit/)
 - [the spectator](http://blog.shakirm.com/)
 - [kaggle blog](http://blog.kaggle.com/)
+- :[Machine think](http://machinethink.net/blog/)
 - [brief history of machine learning](http://www.erogol.com/)
 - [silicon valley AI lab](https://svail.github.io/)
 - [inverse probability](http://inverseprobability.com/blog.html)
