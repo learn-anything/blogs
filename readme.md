@@ -2,7 +2,7 @@
 
 This is a curated list of all the interesting blogs.
 
-[Pull requests are welcome](#Contributing). Thank you. 💜
+[Pull requests are welcome](#contributing). Thank you. 💜
 
 ## Related websites / repositories 
 - [Engineering blogs](https://github.com/kilimchoi/engineering-blogs)
