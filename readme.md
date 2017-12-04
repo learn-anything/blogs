@@ -52,7 +52,7 @@ This is a curated list of all the interesting blogs.
 - [deep dojo](http://deepdojo.com/)
 - [ryan dahl](http://tinyclouds.org/)
 
-### Code
+### Programming
 - [Brandon Bloom](https://www.brandonbloom.name/)
 - [loreto parisi](http://loretoparisi.com/)
 - [Rok Garbas](https://garbas.si)
@@ -72,6 +72,7 @@ This is a curated list of all the interesting blogs.
 - [also has an a pretty funny internal amazon blog](https://sites.google.com/site/steveyegge2/blog-rants)
 - [coding horror](https://blog.codinghorror.com/)
 - [joel on software](https://www.joelonsoftware.com/)
+- [Robot Lolita](http://robotlolita.me/)
 - [preshing on programming](http://preshing.com/)
 - [the old new thing](https://blogs.msdn.microsoft.com/oldnewthing/)
 - [tedunagst](http://www.tedunangst.com/flak/)
