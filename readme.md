@@ -300,6 +300,7 @@ This is a curated list of all the interesting blogs.
 - [steve klabnik](http://words.steveklabnik.com/)
 
 ### Clojure
+- [Yogthos](http://yogthos.net/)
 - [boolean knot](https://www.booleanknot.com/blog/)
 
 ### C++
