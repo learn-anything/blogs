@@ -241,6 +241,7 @@ This is a curated list of all the interesting blogs.
 - [to overcome](http://www.parsonsmatt.org/)
 - [Robert Widmann](http://xn--wxak1a.com/blog/)
 - [Stephen Diehl](http://www.stephendiehl.com/posts/protolude.html)
+- [Domen Kozar](https://www.domenkozar.com)
 
 ### Perl
 - [perl tricks](http://perltricks.com/)
