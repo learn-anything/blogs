@@ -31,7 +31,7 @@ This is a curated list of all the interesting blogs.
 - [i’m a bandit](https://blogs.princeton.edu/imabandit/)
 - [the spectator](http://blog.shakirm.com/)
 - [kaggle blog](http://blog.kaggle.com/)
-- :[Machine think](http://machinethink.net/blog/)
+- [Machine think](http://machinethink.net/blog/)
 - [brief history of machine learning](http://www.erogol.com/)
 - [silicon valley AI lab](https://svail.github.io/)
 - [inverse probability](http://inverseprobability.com/blog.html)
