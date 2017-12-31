@@ -382,6 +382,7 @@ This is a curated list of all the interesting blogs.
 - [macdrifter](http://macdrifter.com/)
 - [michael tsai](https://mjtsai.com/blog/)
 - [defaults write](http://www.defaults-write.com/)
+- [Reverse Engineering Mac OS X](https://reverse.put.as/)
 
 ### Scala
 - [higher order](http://blog.higher-order.com/)
