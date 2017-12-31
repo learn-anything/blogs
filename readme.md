@@ -53,7 +53,6 @@ This is a curated list of all the interesting blogs.
 - [ryan dahl](http://tinyclouds.org/)
 
 ### Programming
-- [Ray Wang](https://raywang.tech/archives/)
 - [Brandon Bloom](https://www.brandonbloom.name/)
 - [loreto parisi](http://loretoparisi.com/)
 - [Rok Garbas](https://garbas.si)
@@ -217,6 +216,7 @@ This is a curated list of all the interesting blogs.
 - [troy hunt](https://www.troyhunt.com/)
 - [krebs on security](https://krebsonsecurity.com/)
 - [simone margaritelli](https://www.evilsocket.net/)
+- [Ray Wang](https://raywang.tech/archives/)
 
 ### Web
 - [monica dinclescu](https://meowni.ca/)
