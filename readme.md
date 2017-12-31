@@ -53,6 +53,7 @@ This is a curated list of all the interesting blogs.
 - [ryan dahl](http://tinyclouds.org/)
 
 ### Programming
+- [Ray Wang](https://raywang.tech/archives/)
 - [Brandon Bloom](https://www.brandonbloom.name/)
 - [loreto parisi](http://loretoparisi.com/)
 - [Rok Garbas](https://garbas.si)
