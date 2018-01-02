@@ -175,7 +175,7 @@ This is a curated list of all the interesting blogs.
 - [applied go](https://appliedgo.net/)
 - [nsf](https://nsfdev.wordpress.com/)
 - [scott mansfield](http://blog.sgmansfield.com/)
-- [aliaksandr pliutau](http://pliutau.com/)
+- [Aliaksandr Pliutau](http://pliutau.com/)
 - [groob](https://groob.io/)
 - [fatih arslan](https://medium.com/@farslan)
 - [dassur](https://dassur.ma/)
