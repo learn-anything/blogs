@@ -310,7 +310,7 @@
 - [NSHipster](http://nshipster.com/)
 - [Fresh swift](http://freshswift.net/)
 - [Swift by Sundell](https://www.swiftbysundell.com/)
-- [Yoans Kolb](yonas kolb)
+- [Yoans Kolb](http://yonaskolb.com)
 
 ## Webgl
 - [Brandon jones](http://blog.tojicode.com/)
