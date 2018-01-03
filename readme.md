@@ -1,19 +1,62 @@
 # Interesting Blogs [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-> Curated list of all the Interesting Research Papers you can read
+> Curated list of all the Interesting Blogs you can read
 
+[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
+## Contents
+- [Machine Learning](#machine-learning)
+- [Programming](#programming)
+- [Go](#go)
+- [Math](#math)
+- [Javascript](#javascript)
+- [Security](#security)
+- [Web](#web)
+- [AI](#ai)
+- [V8 engine](#v8-engine)
+- [Functional Programming](#functional-programming)
+- [Perl](#perl)
+- [Computer Science](#computer-science)
+- [Data Science](#data-science)
+- [Statistics](#statistics)
+- [Swift](#swift)
+- [Webgl](#webgl)
+- [Technology](#technology)
+- [Compression](#compression)
+- [Language Design](#language-design)
+- [Quantum Computing](#quantum-computing)
+- [Haskell](#haskell)
+- [Java](#java)
+- [Computer Graphics](#computer-graphics)
+- [Rust](#rust)
+- [Clojure](#clojure)
+- [C++](#c++)
+- [Android](#android)
+- [Node](#node)
+- [Optimisation](#optimisation)
+- [Design](#design)
+- [Reverse Engineering](#reverse-engineering)
+- [Python](#python)
+- [Networking](#networking)
+- [C](#c)
+- [iOS](#ios)
+- [Ruby](#ruby)
+- [Startups](#startups)
+- [Php](#php)
+- [Hacking](#hacking)
+- [Brain Computer Interface](#brain-computer-interface)
+- [Natural Language Processing](#natural-language-processing)
+- [Blog Aggregator](#blog-aggregator)
+- [Physics](#physics)
+- [Vim](#vim)
+- [React](#react)
+- [macOS](#macos)
+- [Scala](#scala)
+- [CSS](#css)
+- [Company blogs](#company-blogs)
+- [Other](#other)
+- [Related](#related)
 
-This is a curated list of all the interesting blogs.
-
-[Pull requests are welcome](#contributing). Thank you. 💜
-
-## Related websites / repositories 
-- [Engineering blogs](https://github.com/kilimchoi/engineering-blogs)
-- [Data science blogs](https://github.com/rushter/data-science-blogs)
-- [Engineering blogs of companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies)
-
-## Blogs 
-### Machine Learning
+## Machine Learning
 - [Christopher Olah](http://colah.github.io/)
 - [Igor Babuschkin](https://babushk.in/archive.html)
 - [max welling](http://scientificpearlsofwisdom.blogspot.nl/)
@@ -55,7 +98,7 @@ This is a curated list of all the interesting blogs.
 - [deep dojo](http://deepdojo.com/)
 - [ryan dahl](http://tinyclouds.org/)
 
-### Programming
+## Programming
 - [Brandon Bloom](https://www.brandonbloom.name/)
 - [loreto parisi](http://loretoparisi.com/)
 - [Rok Garbas](https://garbas.si)
@@ -173,7 +216,7 @@ This is a curated list of all the interesting blogs.
 - [Nick Craver](https://nickcraver.com/blog/)
 - [Karol Kuczmarski](http://xion.io/archives.html)
 
-### Go
+## Go
 - [dmitri shuralyov](https://dmitri.shuralyov.com/blog)
 - [applied go](https://appliedgo.net/)
 - [nsf](https://nsfdev.wordpress.com/)
@@ -188,7 +231,7 @@ This is a curated list of all the interesting blogs.
 - [Carlos Alexandro](https://carlosbecker.com/archive/)
 - [Going Go](https://www.goinggo.net/)
 
-### Math
+## Math
 - [shape operator](http://www.shapeoperator.com/)
 - [comfortable numbered](http://hardmath123.github.io/)
 - [steven wittens](http://acko.net/)
@@ -198,7 +241,7 @@ This is a curated list of all the interesting blogs.
 - [math ⋂ programming](https://jeremykun.com/)
 - [quantitative journey](http://outlace.com/)
 
-### Javascript
+## Javascript
 - [wavesoft](http://wavesoft.github.io/)
 - [Javascript playground](https://javascriptplayground.com)
 - [jason format](https://jasonformat.com/)
@@ -214,14 +257,14 @@ This is a curated list of all the interesting blogs.
 - [david walsh](https://davidwalsh.name/tutorials/features)
 - [playfulJS](http://www.playfuljs.com)
 
-### Security
+## Security
 - [zdziarski's blog of things](https://www.zdziarski.com/blog/)
 - [troy hunt](https://www.troyhunt.com/)
 - [krebs on security](https://krebsonsecurity.com/)
 - [simone margaritelli](https://www.evilsocket.net/)
 - [Ray Wang](https://raywang.tech/archives/)
 
-### Web
+## Web
 - [monica dinclescu](https://meowni.ca/)
 - [advanced web machinery](https://advancedweb.hu/)
 - [josh habdas](https://habd.as/)
@@ -229,37 +272,36 @@ This is a curated list of all the interesting blogs.
 - [high scalability](http://highscalability.com/)
 - [growing with the web](http://www.growingwiththeweb.com/p/explore.html?t=Computer%20science)
 
-### AI
+## AI
 - [ritchie ng](http://www.ritchieng.com/news/)
 - [adam paszke](http://apaszke.github.io/posts.html)
 - [rylan schaeffer](http://rylanschaeffer.github.io/content/research.html)
 - [ai roadmap institute](https://medium.com/@AIroadmap)
 - [the BAIR blog](http://bair.berkeley.edu/blog/about/)
 
-### V8
+## V8 engine
 - [wingolog](https://wingolog.org/)
 
-
-### Functional Programming
+## Functional Programming
 - [keathley](http://keathley.io/)
 - [to overcome](http://www.parsonsmatt.org/)
 - [Robert Widmann](http://xn--wxak1a.com/blog/)
 - [Stephen Diehl](http://www.stephendiehl.com/posts/protolude.html)
 - [Domen Kozar](https://www.domenkozar.com)
 
-### Perl
+## Perl
 - [perl tricks](http://perltricks.com/)
 
-### Computer Science
+## Computer Science
 - [the morning paper](https://blog.acolyer.org/)
 
-### Data Science
+## Data Science
 - [variance explained](http://varianceexplained.org/)
 
-### Statistics
+## Statistics
 - [david robinson](http://varianceexplained.org/posts/)
 
-### Swift
+## Swift
 - [Michael Kyriacou](http://codeforcaffeine.com/)
 - [Eon codes](http://eon.codes)
 - [Ankit](http://ankit.im)
@@ -270,116 +312,116 @@ This is a curated list of all the interesting blogs.
 - [Swift by Sundell](https://www.swiftbysundell.com/)
 - [Yoans Kolb](yonas kolb)
 
-### Webgl
+## Webgl
 - [Brandon jones](http://blog.tojicode.com/)
 
-### Technology
+## Technology
 - [tech specs](https://techspecs.blog/)
 - [startechery](https://stratechery.com/)
 
-### Compression
+## Compression
 - [realtime data compression](http://fastcompression.blogspot.nl/)
 
-### Language Design
+## Language Design
 - [the big mud puddle](http://evincarofautumn.blogspot.nl/)
 
-### Quantum Computing
+## Quantum Computing
 - [schtect-optimised](http://www.scottaaronson.com/blog/)
 
-### Haskell
+## Haskell
 - [joy of haskell](https://joyofhaskell.com/blog.html)
 - [Vincent Hanquez](http://tab.snarc.org/)
 - [Nikita Volkov](http://nikita-volkov.github.io/)
 - [FPcomplete](https://www.fpcomplete.com/)
 
-### Java
+## Java
 - [stuff gil says](http://stuff-gil-says.blogspot.nl/)
 - [IT blues](http://itblues.pl)
 
-### Computer Graphics
+## Computer Graphics
 - [0 fps](https://0fps.net/)
 
-### Rust
+## Rust
 - [manish goregaokar](https://manishearth.github.io/)
 - [edunham](http://edunham.net/)
 - [steve klabnik](http://words.steveklabnik.com/)
 
-### Clojure
+## Clojure
 - [Yogthos](http://yogthos.net/)
 - [boolean knot](https://www.booleanknot.com/blog/)
 
-### C++
+## C++
 - [victor zverovich](http://zverovich.net/)
 - [Kevin Dungs](https://dun.gs/)
 
-### Android
+## Android
 - [joe birch](https://medium.com/@hitherejoe)
 
-### Node
+## Node
 - [node as we go](http://blog.trevnorris.com/)
 
-### Optimisation
+## Optimisation
 - [aleksey shipilëv](https://shipilev.net/)
 
-### Design
+## Design
 - [domain driven design](http://dddweekly.com/)
 - [willis wilkinson](http://williamwilkinson.com/)
 - [nicole harris](http://whoisnicoleharris.com/#writing)
 
-### Reverse Engineering
+## Reverse Engineering
 - [objective see](https://objective-see.com/blog.html)
 
-### Python
+## Python
 - [rg3](http://rg3.name/)
 
-### Networking
+## Networking
 - [mnot](https://www.mnot.net/blog/)
 
-### C
+## C
 - [tony finch](http://fanf.livejournal.com/)
 
-### iOS
+## iOS
 - [luke zhao](http://lkzhao.com/)
 - [CALayer](http://calayer.com/)
 - [Leo Jweda](https://www.leojweda.com/)
 
-### Ruby
+## Ruby
 - [javivelasco](http://javivelasco.com/blog/)
 - [alyssa.is](https://alyssa.is/)
 
-### Startups
+## Startups
 - [Paul Graham](http://www.paulgraham.com/articles.html)
 - [Elad's blog](http://blog.eladgil.com/)
 
-### Php
+## Php
 - [nikic](http://nikic.github.io/)
 
-### Hacking
+## Hacking
 - [SpritesMods](http://spritesmods.com/)
 
-### Brain Computer Interface
+## Brain Computer Interface
 - [Alexandre Barachant](http://alexandre.barachant.org/blog/)
 
-### Natural Language Processing
+## Natural Language Processing
 - [natural language processing](https://nlpers.blogspot.nl/)
 
-### Blog Aggregator
+## Blog Aggregator
 - [MLWave](http://mlwave.com/)
 - [KD nuggets](http://www.kdnuggets.com/)
 
-### Physics
+## Physics
 - [brilliantly wrong](https://arogozhnikov.github.io/)
 - [AMVA4NewPhysics](https://amva4newphysics.wordpress.com/)
 
-### Vim
+## Vim
 - [AirBlade Software](https://airbladesoftware.com/notes/)
 - [bluz71](https://bluz71.github.io/)
 
-### React
+## React
 - [brent vatne](http://brentvatne.ca/)
 - [build with react](http://buildwithreact.com/)
 
-### macOS
+## macOS
 - [and now it’s all this](http://leancrew.com/all-this/)
 - [coding bull junky](https://codingbulljunky.wordpress.com/)
 - [macdrifter](http://macdrifter.com/)
@@ -387,16 +429,16 @@ This is a curated list of all the interesting blogs.
 - [defaults write](http://www.defaults-write.com/)
 - [Reverse Engineering Mac OS X](https://reverse.put.as/)
 
-### Scala
+## Scala
 - [higher order](http://blog.higher-order.com/)
 
-### CSS 
+## CSS
 - [css wizardry](https://csswizardry.com/archive/)
 
-### Company blogs
+## Company blogs
 - [Airbnb engineering](https://medium.com/airbnb-engineering)
 
-### Other
+## Other
 - [pavel miroshenko](https://pavel.miroshnichen.co/)
 - [dean sherwood](http://deansherwood.com/deansblog)
 - [dave lee](http://heydave.org/)
@@ -404,8 +446,12 @@ This is a curated list of all the interesting blogs.
 - [daring fireball](https://til.hashrocket.com/)
 - [disregard everything I say](http://disregardeverythingisay.com/)
 
-## Contributing
-If you found a blog that you really like or have made, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make a [Pull Request](https://help.github.com/articles/about-pull-requests/).
+## Related
+- [Engineering blogs](https://github.com/kilimchoi/engineering-blogs)
+- [Data science blogs](https://github.com/rushter/data-science-blogs)
+- [Engineering blogs of companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Learn Anything](https://learn-anything.xyz) has waived all copyright and related or neighboring rights to this work.
