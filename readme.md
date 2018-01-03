@@ -424,6 +424,7 @@
 ## macOS
 - [and now it’s all this](http://leancrew.com/all-this/)
 - [coding bull junky](https://codingbulljunky.wordpress.com/)
+- [Nikita Voloboev](https://medium.com/@NikitaVoloboev)
 - [macdrifter](http://macdrifter.com/)
 - [michael tsai](https://mjtsai.com/blog/)
 - [defaults write](http://www.defaults-write.com/)
