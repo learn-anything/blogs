@@ -302,6 +302,7 @@
 - [David Robinson](http://varianceexplained.org/posts/)
 
 ## Swift
+- [Silver fox](https://silverfox.be/blog/)
 - [Michael Kyriacou](http://codeforcaffeine.com/)
 - [Eon codes](http://eon.codes)
 - [Ankit](http://ankit.im)
