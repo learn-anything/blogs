@@ -450,6 +450,7 @@
 - [Engineering blogs](https://github.com/kilimchoi/engineering-blogs)
 - [Data science blogs](https://github.com/rushter/data-science-blogs)
 - [Engineering blogs of companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies)
+- [Data science blogs](https://www.cybrhome.com/topic/data-science-blogs)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
