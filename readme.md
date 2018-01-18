@@ -97,6 +97,7 @@
 - [Ryan Dahl](http://tinyclouds.org/)
 
 ## Programming
+- [James Long](https://jlongster.com)
 - [Brandon Bloom](https://www.brandonbloom.name/)
 - [Loreto Parisi](http://loretoparisi.com/)
 - [Rok Garbas](https://garbas.si)
