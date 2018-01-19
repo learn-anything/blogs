@@ -98,6 +98,7 @@
 
 ## Programming
 - [James Long](https://jlongster.com)
+- [Andrey Petrov](https://medium.com/@shazow)
 - [Brandon Bloom](https://www.brandonbloom.name/)
 - [Loreto Parisi](http://loretoparisi.com/)
 - [Rok Garbas](https://garbas.si)
