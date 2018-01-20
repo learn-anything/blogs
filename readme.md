@@ -97,6 +97,7 @@
 - [Ryan Dahl](http://tinyclouds.org/)
 
 ## Programming
+- [Leandro Moreira](https://leandromoreira.com.br/)
 - [James Long](https://jlongster.com)
 - [Andrey Petrov](https://medium.com/@shazow)
 - [Brandon Bloom](https://www.brandonbloom.name/)
