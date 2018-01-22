@@ -345,6 +345,7 @@
 - [0 FPS](https://0fps.net/)
 
 ## Rust
+- [Embedded in Rust](http://blog.japaric.io/)
 - [Manish Goregaokar](https://manishearth.github.io/)
 - [Edunham](http://edunham.net/)
 - [Steve Klabnik](http://words.steveklabnik.com/)
