@@ -440,6 +440,9 @@
 ## CSS
 - [CSS Wizardry](https://csswizardry.com/archive/)
 
+## Privacy
+- [Spread privacy](https://spreadprivacy.com/)
+
 ## Company blogs
 - [Learn Anything](https://medium.com/learn-anything)
 - [Airbnb engineering](https://medium.com/airbnb-engineering)
