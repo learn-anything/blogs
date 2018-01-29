@@ -441,7 +441,7 @@
 - [CSS Wizardry](https://csswizardry.com/archive/)
 
 ## Privacy
-- [Spread privacy](https://spreadprivacy.com/)
+- [Spread privacy](https://spreadprivacy.com/) - DuckDuckGo blog.
 
 ## Company blogs
 - [Learn Anything](https://medium.com/learn-anything)
