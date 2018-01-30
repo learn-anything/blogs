@@ -98,6 +98,7 @@
 
 ## Programming
 - [Jess Fraz](https://blog.jessfraz.com)
+- [Hoverbear's Musings](https://hoverbear.org/) - Articles primarily relating to science and technology.
 - [Leandro Moreira](https://leandromoreira.com.br/)
 - [James Long](https://jlongster.com)
 - [Andrey Petrov](https://medium.com/@shazow)
