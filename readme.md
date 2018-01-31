@@ -444,7 +444,7 @@
 ## Privacy
 - [Spread privacy](https://spreadprivacy.com/) - DuckDuckGo blog.
 
-## Russian blogs
+## Russian
 - [Вастрик](http://vas3k.ru/)
 
 ## Company blogs
