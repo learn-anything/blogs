@@ -444,6 +444,9 @@
 ## Privacy
 - [Spread privacy](https://spreadprivacy.com/) - DuckDuckGo blog.
 
+## Russian blogs
+- [Вастрик](http://vas3k.ru/)
+
 ## Company blogs
 - [Learn Anything](https://medium.com/learn-anything)
 - [Airbnb engineering](https://medium.com/airbnb-engineering)
