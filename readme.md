@@ -208,7 +208,7 @@
 - [Anish Athalye](http://www.anishathalye.com/)
 - [Jeaye](https://blog.jeaye.com)
 - [Stuff With Stuff](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
-- [Brian Steffens](https://briansteffens.github.io/) 
+- [Brian Steffens](https://briansteffens.github.io/)
 - [Lord.io](https://lord.io/blog/)
 - [Tonsky](http://tonsky.livejournal.com/)
 - [Mark Scholten](https://www.mpscholten.de/)
@@ -243,6 +243,7 @@
 - [The Polymath](https://polymathprojects.org/)
 - [Math ⋂ programming](https://jeremykun.com/)
 - [Quantitative Journey](http://outlace.com/)
+- [Henry de Valence](https://www.hdevalence.ca/blog/)
 
 ## Javascript
 - [Wavesoft](http://wavesoft.github.io/)
@@ -291,6 +292,7 @@
 - [Robert Widmann](http://xn--wxak1a.com/blog/)
 - [Stephen Diehl](http://www.stephendiehl.com/posts/protolude.html)
 - [Domen Kozar](https://www.domenkozar.com)
+- [Taktoa](http://taktoa.me/blog/)
 
 ## Perl
 - [Perl Tricks](http://perltricks.com/)
@@ -445,7 +447,7 @@
 - [Spread privacy](https://spreadprivacy.com/) - DuckDuckGo blog.
 
 ## Russian
-- [Вастрик](http://vas3k.ru/)
+- [vas3k](http://vas3k.ru/)
 
 ## Company blogs
 - [Learn Anything](https://medium.com/learn-anything)
