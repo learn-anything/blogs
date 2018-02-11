@@ -101,6 +101,7 @@
 - [Hoverbear's Musings](https://hoverbear.org/) - Articles primarily relating to science and technology.
 - [Leandro Moreira](https://leandromoreira.com.br/)
 - [James Long](https://jlongster.com)
+- [Alexei Boronine](http://www.boronine.com/)
 - [Andrey Petrov](https://medium.com/@shazow)
 - [Brandon Bloom](https://www.brandonbloom.name/)
 - [Loreto Parisi](http://loretoparisi.com/)
