@@ -271,6 +271,7 @@
 
 ## Web
 - [Monica Dinclescu](https://meowni.ca/)
+- [Frank Chimero](https://frankchimero.com/blog/)
 - [Advanced web machinery](https://advancedweb.hu/)
 - [Josh Habdas](https://habd.as/)
 - [Tomek Wiszniewski](http://tomek.wiszniewski.cc/)
