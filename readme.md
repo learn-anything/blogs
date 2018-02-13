@@ -264,6 +264,7 @@
 ## Security
 - [Zdziarski's blog of things](https://www.zdziarski.com/blog/)
 - [Troy Hunt](https://www.troyhunt.com/)
+- [Devs love security](http://devs.cloudimmunity.com)
 - [Krebs on security](https://krebsonsecurity.com/)
 - [Simone Margaritelli](https://www.evilsocket.net/)
 - [Ray Wang](https://raywang.tech/archives/)
