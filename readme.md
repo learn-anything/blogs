@@ -98,6 +98,7 @@
 ## Programming
 - [Jess Fraz](https://blog.jessfraz.com)
 - [Hoverbear's Musings](https://hoverbear.org/) - Articles primarily relating to science and technology.
+- [Jérôme Petazzoni](http://jpetazzo.github.io/)
 - [Leandro Moreira](https://leandromoreira.com.br/)
 - [James Long](https://jlongster.com)
 - [Alexei Boronine](http://www.boronine.com/)
