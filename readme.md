@@ -386,6 +386,7 @@
 
 ## Networking
 - [Mnot](https://www.mnot.net/blog/)
+- [Matrix](https://matrix.org/blog/posts/)
 
 ## C
 - [Tony Finch](http://fanf.livejournal.com/)
