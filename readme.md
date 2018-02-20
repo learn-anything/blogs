@@ -292,6 +292,7 @@
 ## Functional Programming
 - [Keathley](http://keathley.io/)
 - [To Overcome](http://www.parsonsmatt.org/)
+- [Existential Type](https://existentialtype.wordpress.com/)
 - [Robert Widmann](http://xn--wxak1a.com/blog/)
 - [Stephen Diehl](http://www.stephendiehl.com/posts/protolude.html)
 - [Domen Kozar](https://www.domenkozar.com)
