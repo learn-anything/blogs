@@ -55,6 +55,7 @@
 
 ## Machine Learning
 - [Christopher Olah](http://colah.github.io/)
+- [Peter Goldsborough ](http://www.goldsborough.me/)
 - [Igor Babuschkin](https://babushk.in/archive.html)
 - [Max Welling](http://scientificpearlsofwisdom.blogspot.nl/)
 - [Stephan Hoyer](Stephan%20Hoyer)
