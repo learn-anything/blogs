@@ -98,6 +98,7 @@
 
 ## Programming
 - [Jess Fraz](https://blog.jessfraz.com)
+- [Schmidt's Foolish Manifesto](https://blog.afoolishmanifesto.com/)
 - [Hoverbear's Musings](https://hoverbear.org/) - Articles primarily relating to science and technology.
 - [Jérôme Petazzoni](http://jpetazzo.github.io/)
 - [Leandro Moreira](https://leandromoreira.com.br/)
