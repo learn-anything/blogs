@@ -58,7 +58,7 @@
 - [Peter Goldsborough](http://www.goldsborough.me/)
 - [Igor Babuschkin](https://babushk.in/archive.html)
 - [Max Welling](http://scientificpearlsofwisdom.blogspot.nl/)
-- [Stephan Hoyer](Stephan%20Hoyer)
+- [Stephan Hoyer](http://stephanhoyer.com/blog/)
 - [Tim Head](http://betatim.github.io/)
 - [Bradford Cross](http://www.bradfordcross.com)
 - [Distill](http://distill.pub/)
