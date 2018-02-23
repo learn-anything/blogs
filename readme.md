@@ -113,6 +113,7 @@
 - [Marc Qualie](https://marcqualie.com/)
 - [Amjad Masad](https://amasad.me/)
 - [Jan Hunermann](http://lab.janhuenermann.de/)
+- [Mark J. Nelson](http://www.kmjn.org/notes/)
 - [Marcus Westin](http://marcuswest.in/)
 - [Ben Orestein](http://www.benorenstein.com/blog/)
 - [Fuzzy Notepad](https://eev.ee/blog/)
