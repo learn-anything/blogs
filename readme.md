@@ -295,7 +295,7 @@
 
 ## Functional Programming
 - [Keathley](http://keathley.io/)
-- [Fogus](http://blog.fogus.me/)
+- [Send More Paramedics](http://blog.fogus.me/)
 - [To Overcome](http://www.parsonsmatt.org/)
 - [Existential Type](https://existentialtype.wordpress.com/)
 - [Robert Widmann](http://xn--wxak1a.com/blog/)
