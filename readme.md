@@ -104,6 +104,7 @@
 - [Jérôme Petazzoni](http://jpetazzo.github.io/)
 - [Leandro Moreira](https://leandromoreira.com.br/)
 - [James Long](https://jlongster.com)
+- [Jacques Mattheij](https://jacquesmattheij.com/)
 - [Alexei Boronine](http://www.boronine.com/)
 - [Jimmy Cuadra](https://www.jimmycuadra.com/)
 - [Andrey Petrov](https://medium.com/@shazow)
