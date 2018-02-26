@@ -312,6 +312,7 @@
 
 ## Data Science
 - [Variance Explained](http://varianceexplained.org/)
+- [Robert Chang](https://medium.com/@rchang) - Worked at Airbnb and Twitter.
 
 ## Statistics
 - [David Robinson](http://varianceexplained.org/posts/)
