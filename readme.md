@@ -310,6 +310,9 @@
 ## Computer Science
 - [The Morning Paper](https://blog.acolyer.org/)
 
+## Compilers
+- [Vyacheslav Egorov](https://mrale.ph/)
+
 ## Data Science
 - [Variance Explained](http://varianceexplained.org/)
 - [Robert Chang](https://medium.com/@rchang) - Worked at Airbnb and Twitter.
