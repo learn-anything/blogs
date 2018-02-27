@@ -360,6 +360,7 @@
 
 ## Rust
 - [Embedded in Rust](http://blog.japaric.io/)
+- [Nick Fitzgerald](http://fitzgeraldnick.com/)
 - [Manish Goregaokar](https://manishearth.github.io/)
 - [Edunham](http://edunham.net/)
 - [Steve Klabnik](http://words.steveklabnik.com/)
