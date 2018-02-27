@@ -466,6 +466,7 @@
 ## Russian
 - [Canonium](https://canonium.com)
 - [vas3k](http://vas3k.ru/)
+- [Andrew Romanov](http://andrew-r.ru/notes/)
 
 ## Company blogs
 - [Learn Anything](https://medium.com/learn-anything)
