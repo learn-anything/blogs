@@ -99,6 +99,7 @@
 
 ## Programming
 - [Jess Fraz](https://blog.jessfraz.com)
+- [Ben Frederickson](https://www.benfrederickson.com/blog/)
 - [Aspro](http://blog.asrpo.com/)
 - [Schmidt's Foolish Manifesto](https://blog.afoolishmanifesto.com/)
 - [Hoverbear's Musings](https://hoverbear.org/) - Articles primarily relating to science and technology.
