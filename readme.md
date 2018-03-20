@@ -41,6 +41,7 @@
 - [Startups](#startups)
 - [Php](#php)
 - [Hacking](#hacking)
+- [Blockchain](#blockchain)
 - [Brain Computer Interface](#brain-computer-interface)
 - [Natural Language Processing](#natural-language-processing)
 - [Blog Aggregator](#blog-aggregator)
@@ -424,6 +425,9 @@
 
 ## Hacking
 - [SpritesMods](http://spritesmods.com/)
+
+## Blockchain
+- [Karl Tech](https://karl.tech/)
 
 ## Brain Computer Interface
 - [Alexandre Barachant](http://alexandre.barachant.org/blog/)
