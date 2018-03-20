@@ -356,6 +356,7 @@
 - [Vincent Hanquez](http://tab.snarc.org/)
 - [Nikita Volkov](http://nikita-volkov.github.io/)
 - [FPcomplete](https://www.fpcomplete.com/)
+- [RU Haskell](https://ruhaskell.org/)
 
 ## Java
 - [Stuff Gil says](http://stuff-gil-says.blogspot.nl/)
