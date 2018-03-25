@@ -260,6 +260,7 @@
 - [Javascript Playground](https://javascriptplayground.com)
 - [Jason Format](https://jasonformat.com/)
 - [Max Ogden](https://maxogden.com/index.html)
+- [Flavio Copes](https://flaviocopes.com/) - Guides and tutorials for developers.
 - [André Staltz](http://staltz.com/blog.html)
 - [Nick Balestra](http://nick.balestra.ch/)
 - [Wes Bos](http://wesbos.com/blog/)
