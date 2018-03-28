@@ -100,6 +100,7 @@
 
 ## Programming
 - [Jess Fraz](https://blog.jessfraz.com)
+- [Randall Degges](https://www.rdegges.com/)
 - [Ben Frederickson](https://www.benfrederickson.com/blog/)
 - [Aspro](http://blog.asrpo.com/)
 - [Schmidt's Foolish Manifesto](https://blog.afoolishmanifesto.com/)
