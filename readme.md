@@ -57,7 +57,7 @@
 
 ## Machine Learning
 - [Christopher Olah](http://colah.github.io/)
-- [Tensorflow](https://medium.com/tensorflow)
+- [TensorFlow](https://medium.com/tensorflow)
 - [Peter Goldsborough](http://www.goldsborough.me/)
 - [Igor Babuschkin](https://babushk.in/archive.html)
 - [Max Welling](http://scientificpearlsofwisdom.blogspot.nl/)
