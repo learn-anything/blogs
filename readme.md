@@ -330,6 +330,7 @@
 ## Swift
 - [Silver fox](https://silverfox.be/blog/)
 - [Michael Kyriacou](http://codeforcaffeine.com/)
+- [Joe Groff](http://duriansoftware.com/joe/index.html) - Works on Swift languge at Apple.
 - [Eon codes](http://eon.codes)
 - [Ankit](http://ankit.im)
 - [Ash furrow](https://ashfurrow.com/)
