@@ -61,6 +61,7 @@
 - [Igor Babuschkin](https://babushk.in/archive.html)
 - [Max Welling](http://scientificpearlsofwisdom.blogspot.nl/)
 - [Stephan Hoyer](http://stephanhoyer.com/blog/)
+- [deepMath](https://www3.math.tu-berlin.de/numerik/www.deepmath.org/index.php)
 - [Tim Head](http://betatim.github.io/)
 - [Bradford Cross](http://www.bradfordcross.com)
 - [Distill](http://distill.pub/)
