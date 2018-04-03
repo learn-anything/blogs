@@ -4,6 +4,7 @@
 ##### Contents
 - [Machine Learning](#machine-learning)
 - [Programming](#programming)
+- [Linux](#linux)
 - [Go](#go)
 - [Math](#math)
 - [Javascript](#javascript)
@@ -231,6 +232,9 @@
 - [Antirez](http://antirez.com/latest/0)
 - [Nick Craver](https://nickcraver.com/blog/)
 - [Karol Kuczmarski](http://xion.io/archives.html)
+
+## Linux
+- [nixCraft](https://www.cyberciti.biz/)
 
 ## Go
 - [Dmitri Shuralyov](https://dmitri.shuralyov.com/blog)
