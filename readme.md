@@ -114,6 +114,7 @@
 - [Jacques Mattheij](https://jacquesmattheij.com/)
 - [Alexei Boronine](http://www.boronine.com/)
 - [Jimmy Cuadra](https://www.jimmycuadra.com/)
+- [Sara Vieira](https://medium.com/@nikkitaftw)
 - [Andrey Petrov](https://medium.com/@shazow)
 - [Brandon Bloom](https://www.brandonbloom.name/)
 - [Loreto Parisi](http://loretoparisi.com/)
