@@ -421,6 +421,7 @@
 ## iOS
 - [Luke Zhao](http://lkzhao.com/)
 - [CALayer](http://calayer.com/)
+- [Benjamin Mayo](http://benjaminmayo.co.uk/archive)
 - [Leo Jweda](https://www.leojweda.com/)
 
 ## Ruby
