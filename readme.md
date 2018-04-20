@@ -3,7 +3,7 @@
 
 ##### Contents
 - [Machine Learning](#machine-learning)
-- [Programming](#programming)
+- [Code](#code)
 - [Linux](#linux)
 - [Go](#go)
 - [Math](#math)
@@ -101,8 +101,9 @@
 - [Deep Dojo](http://deepdojo.com/)
 - [Ryan Dahl](http://tinyclouds.org/)
 
-## Programming
+## Code
 - [Jess Fraz](https://blog.jessfraz.com)
+- [Benjamin Congdon](http://benjamincongdon.me/blog/)
 - [Randall Degges](https://www.rdegges.com/)
 - [Ben Frederickson](https://www.benfrederickson.com/blog/)
 - [Aspro](http://blog.asrpo.com/)
