@@ -255,6 +255,7 @@
 
 ## Math
 - [Shape Operator](http://www.shapeoperator.com/)
+- [Danny Gratzer](https://jozefg.bitbucket.io)
 - [Comfortable Numbered](http://hardmath123.github.io/)
 - [Steven Wittens](http://acko.net/)
 - [Random Ascii](https://randomascii.wordpress.com/)
