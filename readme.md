@@ -102,6 +102,7 @@
 - [Ryan Dahl](http://tinyclouds.org/)
 
 ## Code
+- [Brandur](https://brandur.org/articles)
 - [Jess Fraz](https://blog.jessfraz.com)
 - [Benjamin Congdon](http://benjamincongdon.me/blog/)
 - [Randall Degges](https://www.rdegges.com/)
