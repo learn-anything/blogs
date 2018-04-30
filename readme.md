@@ -114,6 +114,7 @@
 - [Jérôme Petazzoni](http://jpetazzo.github.io/)
 - [Leandro Moreira](https://leandromoreira.com.br/)
 - [James Long](https://jlongster.com)
+- [Eric Chiang](https://ericchiang.github.io/)
 - [Jacques Mattheij](https://jacquesmattheij.com/)
 - [Alexei Boronine](http://www.boronine.com/)
 - [Jimmy Cuadra](https://www.jimmycuadra.com/)
