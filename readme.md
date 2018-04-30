@@ -119,6 +119,7 @@
 - [Alexei Boronine](http://www.boronine.com/)
 - [Jimmy Cuadra](https://www.jimmycuadra.com/)
 - [Matthias Endler](https://matthias-endler.de/)
+- [Alex Fedoseev](https://alexfedoseev.com/blog)
 - [Sara Vieira](https://medium.com/@nikkitaftw)
 - [Andrey Petrov](https://medium.com/@shazow)
 - [Brandon Bloom](https://www.brandonbloom.name/)
