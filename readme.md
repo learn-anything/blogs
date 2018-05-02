@@ -501,6 +501,7 @@
 - [Pavel Miroshenko](https://pavel.miroshnichen.co/)
 - [Dean Sherwood](http://deansherwood.com/deansblog)
 - [Dave Lee](http://heydave.org/)
+- [Steve Pavlina](https://www.stevepavlina.com/blog/)
 - [Today I learned](https://til.hashrocket.com/)
 - [Daring Fireball](https://til.hashrocket.com/)
 - [Disregard Everything I say](http://disregardeverythingisay.com/)
