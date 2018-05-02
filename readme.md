@@ -488,6 +488,9 @@
 ## Privacy
 - [Spread privacy](https://spreadprivacy.com/) - DuckDuckGo blog.
 
+## Games
+- [Video Game History Foundation](https://gamehistory.org/blog/)
+
 ## Russian
 - [Canonium](https://canonium.com)
 - [vas3k](http://vas3k.ru/)
