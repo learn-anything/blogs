@@ -492,6 +492,7 @@
 - [Canonium](https://canonium.com)
 - [vas3k](http://vas3k.ru/)
 - [Andrew Romanov](http://andrew-r.ru/notes/)
+- [Fedor Borshev](https://borshev.com/)
 
 ## Company blogs
 - [Learn Anything](https://medium.com/learn-anything)
