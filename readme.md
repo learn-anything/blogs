@@ -516,6 +516,7 @@
 - [Data science blogs](https://github.com/rushter/data-science-blogs#readme)
 - [Engineering blogs of companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies)
 - [Data science blogs](https://www.cybrhome.com/topic/data-science-blogs)
+- [Programming blog list](http://danluu.com/programming-blogs/)
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
