@@ -3,7 +3,7 @@
 
 ##### Contents
 - [Machine Learning](#machine-learning)
-- [Code](#code)
+- [Programming](#programming)
 - [Linux](#linux)
 - [Go](#go)
 - [Math](#math)
@@ -102,9 +102,10 @@
 - [Deep Dojo](http://deepdojo.com/)
 - [Ryan Dahl](http://tinyclouds.org/)
 
-## Code
+## Programming
 - [Brandur](https://brandur.org/articles)
 - [Jess Fraz](https://blog.jessfraz.com)
+- [Keith Rarick](https://xph.us/)
 - [Benjamin Congdon](http://benjamincongdon.me/blog/)
 - [Randall Degges](https://www.rdegges.com/)
 - [Ben Frederickson](https://www.benfrederickson.com/blog/)
