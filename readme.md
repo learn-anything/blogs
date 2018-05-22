@@ -106,6 +106,7 @@
 - [Brandur](https://brandur.org/articles)
 - [Jess Fraz](https://blog.jessfraz.com)
 - [Keith Rarick](https://xph.us/)
+- [Anon Function](http://anonfunction.com/)
 - [Benjamin Congdon](http://benjamincongdon.me/blog/)
 - [Randall Degges](https://www.rdegges.com/)
 - [Ben Frederickson](https://www.benfrederickson.com/blog/)
