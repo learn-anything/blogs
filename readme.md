@@ -115,6 +115,7 @@
 - [Hoverbear's Musings](https://hoverbear.org/) - Articles primarily relating to science and technology.
 - [Jérôme Petazzoni](http://jpetazzo.github.io/)
 - [Leandro Moreira](https://leandromoreira.com.br/)
+- [GHOTL](https://sphalerite.org/ghotl/) - Blog about learning type systems for implement one simple functional language.
 - [James Long](https://jlongster.com)
 - [Eric Chiang](https://ericchiang.github.io/)
 - [Jacques Mattheij](https://jacquesmattheij.com/)
