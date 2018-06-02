@@ -113,6 +113,7 @@
 - [Aspro](http://blog.asrpo.com/)
 - [Schmidt's Foolish Manifesto](https://blog.afoolishmanifesto.com/)
 - [Hoverbear's Musings](https://hoverbear.org/) - Articles primarily relating to science and technology.
+- [Diaries of a Madman](https://asylum.madhouse-project.org/blog/archives/)
 - [Jérôme Petazzoni](http://jpetazzo.github.io/)
 - [Leandro Moreira](https://leandromoreira.com.br/)
 - [GHOTL](https://sphalerite.org/ghotl/) - Blog about learning type systems for implement one simple functional language.
