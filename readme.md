@@ -266,6 +266,7 @@
 - [Shape Operator](http://www.shapeoperator.com/)
 - [Danny Gratzer](https://jozefg.bitbucket.io)
 - [Comfortable Numbered](http://hardmath123.github.io/)
+- [Shtetl-Optimized](https://www.scottaaronson.com/blog/) - The Blog of Scott Aaronson.
 - [Steven Wittens](http://acko.net/)
 - [Random Ascii](https://randomascii.wordpress.com/)
 - [Nicky Case](http://blog.ncase.me/)
