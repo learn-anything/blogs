@@ -377,6 +377,7 @@
 ## Haskell
 - [Joy Of haskell](https://joyofhaskell.com/blog.html)
 - [Vincent Hanquez](http://tab.snarc.org/)
+- [Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/archives/)
 - [Nikita Volkov](http://nikita-volkov.github.io/)
 - [FPcomplete](https://www.fpcomplete.com/)
 - [RUHaskell (Russian)](https://ruhaskell.org/)
