@@ -4,6 +4,7 @@
 ##### Contents
 - [Machine Learning](#machine-learning)
 - [Programming](#programming)
+- [Design](#design)
 - [Linux](#linux)
 - [Go](#go)
 - [Math](#math)
@@ -243,6 +244,14 @@
 - [Antirez](http://antirez.com/latest/0)
 - [Nick Craver](https://nickcraver.com/blog/)
 - [Karol Kuczmarski](http://xion.io/archives.html)
+
+## Design
+-[UX Collective](https://uxdesign.cc)
+-[MIRADOR](https://thisismirador.com)   -> for Design inspiration
+-[Create by Adobe](https://create.adobe.com/graphic-design.html)
+-[The Dsgn Blog](http://thedsgnblog.com/tagged/graphic-design)
+-[Refactoring UI](https://medium.com/refactoring-ui)
+-[Design + Sketch](https://medium.com/sketch-app-sources)
 
 ## Linux
 - [nixCraft](https://www.cyberciti.biz/)
