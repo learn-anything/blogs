@@ -247,6 +247,10 @@
 
 ## Linux
 - [nixCraft](https://www.cyberciti.biz/)
+- [It's FOSS](https://itsfoss.com)
+- [Linux.com](https://linux.com)
+- [Slashdot](https://linux.slashdot.org)
+
 
 ## Go
 - [Dmitri Shuralyov](https://dmitri.shuralyov.com/blog)
