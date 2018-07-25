@@ -7,7 +7,7 @@
 - [Linux](#linux)
 - [Go](#go)
 - [Math](#math)
-- [Javascript](#javascript)
+- [JavaScript](#javascript)
 - [Security](#security)
 - [Web](#web)
 - [AI](#ai)
@@ -31,7 +31,6 @@
 - [C++](#c++)
 - [Android](#android)
 - [Node](#node)
-- [Optimisation](#optimisation)
 - [Design](#design)
 - [Reverse Engineering](#reverse-engineering)
 - [Python](#python)
@@ -40,7 +39,7 @@
 - [iOS](#ios)
 - [Ruby](#ruby)
 - [Startups](#startups)
-- [Php](#php)
+- [PHP](#php)
 - [Hacking](#hacking)
 - [Blockchain](#blockchain)
 - [Brain Computer Interface](#brain-computer-interface)
@@ -415,7 +414,7 @@
 ## Node
 - [Node as we go](http://blog.trevnorris.com/)
 
-## Optimisation
+## Optimization
 - [Aleksey Shipilëv](https://shipilev.net/)
 
 ## Design
@@ -485,7 +484,7 @@
 ## macOS
 - [And now it’s all this](http://leancrew.com/all-this/)
 - [Coding Bull Junky](https://codingbulljunky.wordpress.com/)
-- [Nikita Voloboev](https://medium.com/@NikitaVoloboev)
+- [Nikita Voloboev](https://medium.com/@nikitavoloboev)
 - [Macdrifter](http://macdrifter.com/)
 - [Michael Tsai](https://mjtsai.com/blog/)
 - [Defaults Write](http://www.defaults-write.com/)
