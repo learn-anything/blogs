@@ -163,6 +163,7 @@
 - [Aliaksandr Pliutau](http://pliutau.com/)
 - [Applied Go](https://appliedgo.net/)
 - [Carlos Alexandro](https://carlosbecker.com/archive/)
+- [Dave Cheney](https://dave.cheney.net/) 
 - [Dassur](https://dassur.ma/)
 - [Dmitri Shuralyov](https://dmitri.shuralyov.com/blog)
 - [Fatih Arslan](https://medium.com/@farslan)
