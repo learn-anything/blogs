@@ -236,6 +236,7 @@
 - [Concept search on wikipedia](http://mccormickml.com/)
 - [Deep Dojo](http://deepdojo.com/)
 - [Deeplearning4j](https://deeplearning4j.org/eigenvector)
+- [DeepMath](https://www3.math.tu-berlin.de/numerik/www.deepmath.org/index.php)
 - [Deepmind](https://deepmind.com/blog/)
 - [Distill](http://distill.pub/)
 - [Facebook Research](https://research.fb.com/blog/)
@@ -267,7 +268,6 @@
 - [Triangle inequality](https://triangleinequality.wordpress.com/)
 - [Unintentionally inconsiderate](http://rocknrollnerd.github.io/)
 - [Wildml](http://www.wildml.com/)
-- [deepMath](https://www3.math.tu-berlin.de/numerik/www.deepmath.org/index.php)
 
 ## Math
 
