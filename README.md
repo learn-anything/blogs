@@ -14,13 +14,13 @@
 - [Brain Computer Interface](#brain-computer-interface)
 - [C](#c)
 - [C++](#c++)
-- [CSS](#css)
 - [Clojure](#clojure)
 - [Company blogs](#company-blogs)
 - [Compilers](#compilers)
 - [Compression](#compression)
 - [Computer Graphics](#computer-graphics)
 - [Computer Science](#computer-science)
+- [CSS](#css)
 - [Data Science](#data-science)
 - [Design](#design)
 - [Functional Programming](#functional-programming)
@@ -28,17 +28,18 @@
 - [Go](#go)
 - [Hacking](#hacking)
 - [Haskell](#haskell)
+- [iOS](#ios)
 - [Java](#java)
 - [Javascript](#javascript)
 - [Language Design](#language-design)
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
+- [macOS](#macos)
 - [Math](#math)
 - [Natural Language Processing](#natural-language-processing)
 - [Networking](#networking)
 - [Node](#node)
 - [Optimization](#optimization)
-- [Other](#other)
 - [Perl](#perl)
 - [Php](#php)
 - [Physics](#physics)
@@ -47,7 +48,6 @@
 - [Python](#python)
 - [Quantum Computing](#quantum-computing)
 - [React](#react)
-- [Related](#related)
 - [Reverse Engineering](#reverse-engineering)
 - [Ruby](#ruby)
 - [Russian](#russian)
@@ -62,15 +62,15 @@
 - [Vim](#vim)
 - [Web](#web)
 - [Webgl](#webgl)
-- [iOS](#ios)
-- [macOS](#macos)
+- [Other](#other)
+- [Related](#related)
 
 ---
 
 ## AI
 
-- [AI Roadmap institute](https://medium.com/@AIroadmap)
 - [Adam Paszke](http://apaszke.github.io/posts.html)
+- [AI Roadmap institute](https://medium.com/@AIroadmap)
 - [Ritchie Ng](http://www.ritchieng.com/news/)
 - [Rylan Schaeffer](http://rylanschaeffer.github.io/content/research.html)
 - [The BAIR blog](http://bair.berkeley.edu/blog/about/)
@@ -101,10 +101,6 @@
 - [Kevin Dungs](https://dun.gs/)
 - [Victor Zverovich](http://zverovich.net/)
 
-## CSS
-
-- [CSS Wizardry](https://csswizardry.com/archive/)
-
 ## Clojure
 
 - [Boolean Knot](https://www.booleanknot.com/blog/)
@@ -130,6 +126,10 @@
 ## Computer Science
 
 - [The Morning Paper](https://blog.acolyer.org/)
+
+## CSS
+
+- [CSS Wizardry](https://csswizardry.com/archive/)
 
 ## Data Science
 
@@ -163,8 +163,8 @@
 - [Aliaksandr Pliutau](http://pliutau.com/)
 - [Applied Go](https://appliedgo.net/)
 - [Carlos Alexandro](https://carlosbecker.com/archive/)
-- [Dave Cheney](https://dave.cheney.net/) 
 - [Dassur](https://dassur.ma/)
+- [Dave Cheney](https://dave.cheney.net/) 
 - [Dmitri Shuralyov](https://dmitri.shuralyov.com/blog)
 - [Fatih Arslan](https://medium.com/@farslan)
 - [Going Go](https://www.goinggo.net/)
@@ -184,9 +184,16 @@
 - [FPcomplete](https://www.fpcomplete.com/)
 - [Joy Of haskell](https://joyofhaskell.com/blog.html)
 - [Nikita Volkov](http://nikita-volkov.github.io/)
-- [RUHaskell (Russian)](https://ruhaskell.org/)
 - [Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/archives/)
+- [RUHaskell (Russian)](https://ruhaskell.org/)
 - [Vincent Hanquez](http://tab.snarc.org/)
+
+## iOS
+
+- [Benjamin Mayo](http://benjaminmayo.co.uk/archive)
+- [CALayer](http://calayer.com/)
+- [Leo Jweda](https://www.leojweda.com/)
+- [Luke Zhao](http://lkzhao.com/)
 
 ## Java
 
@@ -219,8 +226,8 @@
 
 - [It's FOSS](https://itsfoss.com)
 - [Linux.com](https://linux.com)
-- [Slashdot](https://linux.slashdot.org)
 - [nixCraft](https://www.cyberciti.biz/)
+- [Slashdot](https://linux.slashdot.org)
 
 ## Machine Learning
 
@@ -269,6 +276,16 @@
 - [Unintentionally inconsiderate](http://rocknrollnerd.github.io/)
 - [Wildml](http://www.wildml.com/)
 
+## macOS
+
+- [And now it’s all this](http://leancrew.com/all-this/)
+- [Coding Bull Junky](https://codingbulljunky.wordpress.com/)
+- [Defaults Write](http://www.defaults-write.com/)
+- [Macdrifter](http://macdrifter.com/)
+- [Michael Tsai](https://mjtsai.com/blog/)
+- [Nikita Voloboev](https://medium.com/@nikitavoloboev)
+- [Reverse Engineering Mac OS X](https://reverse.put.as/)
+
 ## Math
 
 - [Comfortable Numbered](http://hardmath123.github.io/)
@@ -299,16 +316,6 @@
 ## Optimization
 
 - [Aleksey Shipilëv](https://shipilev.net/)
-
-## Other
-
-- [Daring Fireball](https://til.hashrocket.com/)
-- [Dave Lee](http://heydave.org/)
-- [Dean Sherwood](http://deansherwood.com/deansblog)
-- [Disregard Everything I say](http://disregardeverythingisay.com/)
-- [Pavel Miroshenko](https://pavel.miroshnichen.co/)
-- [Steve Pavlina](https://www.stevepavlina.com/blog/)
-- [Today I learned](https://til.hashrocket.com/)
 
 ## Perl
 
@@ -383,9 +390,9 @@
 - [Erik Bernhardsson](https://erikbern.com/)
 - [Frank Mcsherry](https://github.com/frankmcsherry/blog)
 - [Fuzzy Notepad](https://eev.ee/blog/)
-- [GHOTL](https://sphalerite.org/ghotl/) - Blog about learning type systems for implement one simple functional language.
 - [Gary Sieling](https://www.garysieling.com/blog/)
 - [Gggritso](http://gggritso.com/)
+- [GHOTL](https://sphalerite.org/ghotl/) - Blog about learning type systems for implement one simple functional language.
 - [Hackernoon](https://hackernoon.com/)
 - [Hackthology](http://hackthology.com/index.html)
 - [HookRace](https://hookrace.net/)
@@ -483,14 +490,6 @@
 - [Brent Vatne](http://brentvatne.ca/)
 - [Build with React](http://buildwithreact.com/)
 
-## Related
-
-- [Data science blogs](https://github.com/rushter/data-science-blogs#readme)
-- [Data science blogs](https://www.cybrhome.com/topic/data-science-blogs)
-- [Engineering blogs of companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies)
-- [Engineering blogs](https://github.com/kilimchoi/engineering-blogs#readme)
-- [Programming blog list](http://danluu.com/programming-blogs/)
-
 ## Reverse Engineering
 
 - [Objective See](https://objective-see.com/blog.html)
@@ -579,22 +578,23 @@
 
 - [Brandon jones](http://blog.tojicode.com/)
 
-## iOS
+## Other
 
-- [Benjamin Mayo](http://benjaminmayo.co.uk/archive)
-- [CALayer](http://calayer.com/)
-- [Leo Jweda](https://www.leojweda.com/)
-- [Luke Zhao](http://lkzhao.com/)
+- [Daring Fireball](https://til.hashrocket.com/)
+- [Dave Lee](http://heydave.org/)
+- [Dean Sherwood](http://deansherwood.com/deansblog)
+- [Disregard Everything I say](http://disregardeverythingisay.com/)
+- [Pavel Miroshenko](https://pavel.miroshnichen.co/)
+- [Steve Pavlina](https://www.stevepavlina.com/blog/)
+- [Today I learned](https://til.hashrocket.com/)
 
-## macOS
+## Related
 
-- [And now it’s all this](http://leancrew.com/all-this/)
-- [Coding Bull Junky](https://codingbulljunky.wordpress.com/)
-- [Defaults Write](http://www.defaults-write.com/)
-- [Macdrifter](http://macdrifter.com/)
-- [Michael Tsai](https://mjtsai.com/blog/)
-- [Nikita Voloboev](https://medium.com/@nikitavoloboev)
-- [Reverse Engineering Mac OS X](https://reverse.put.as/)
+- [Data science blogs](https://github.com/rushter/data-science-blogs#readme)
+- [Data science blogs](https://www.cybrhome.com/topic/data-science-blogs)
+- [Engineering blogs of companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies)
+- [Engineering blogs](https://github.com/kilimchoi/engineering-blogs#readme)
+- [Programming blog list](http://danluu.com/programming-blogs/)
 
 ---
 
