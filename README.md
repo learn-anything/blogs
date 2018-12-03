@@ -15,7 +15,7 @@
 - [C](#c)
 - [C++](#c++)
 - [Clojure](#clojure)
-- [Company blogs](#company-blogs)
+- [Company Blogs](#company-blogs)
 - [Compilers](#compilers)
 - [Compression](#compression)
 - [Computer Graphics](#computer-graphics)
@@ -30,7 +30,7 @@
 - [Haskell](#haskell)
 - [iOS](#ios)
 - [Java](#java)
-- [Javascript](#javascript)
+- [JavaScript](#javascript)
 - [Language Design](#language-design)
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
@@ -41,7 +41,7 @@
 - [Node](#node)
 - [Optimization](#optimization)
 - [Perl](#perl)
-- [Php](#php)
+- [PHP](#php)
 - [Physics](#physics)
 - [Privacy](#privacy)
 - [Programming](#programming)
@@ -58,10 +58,10 @@
 - [Statistics](#statistics)
 - [Swift](#swift)
 - [Technology](#technology)
-- [V8 engine](#v8-engine)
+- [V8 Engine](#v8-engine)
 - [Vim](#vim)
 - [Web](#web)
-- [Webgl](#webgl)
+- [WebGL](#webgl)
 - [Other](#other)
 - [Related](#related)
 
@@ -70,10 +70,10 @@
 ## AI
 
 - [Adam Paszke](http://apaszke.github.io/posts.html)
-- [AI Roadmap institute](https://medium.com/@AIroadmap)
+- [AI Roadmap Institute](https://medium.com/@AIroadmap)
 - [Ritchie Ng](http://www.ritchieng.com/news/)
 - [Rylan Schaeffer](http://rylanschaeffer.github.io/content/research.html)
-- [The BAIR blog](http://bair.berkeley.edu/blog/about/)
+- [The BAIR Blog](http://bair.berkeley.edu/blog/about/)
 
 ## Android
 
@@ -85,7 +85,7 @@
 
 ## Blog Aggregator
 
-- [KD nuggets](http://www.kdnuggets.com/)
+- [KDnuggets](http://www.kdnuggets.com/)
 - [MLWave](http://mlwave.com/)
 
 ## Brain Computer Interface
@@ -106,9 +106,9 @@
 - [Boolean Knot](https://www.booleanknot.com/blog/)
 - [Yogthos](http://yogthos.net/)
 
-## Company blogs
+## Company Blogs
 
-- [Airbnb engineering](https://medium.com/airbnb-engineering)
+- [Airbnb Engineering](https://medium.com/airbnb-engineering)
 - [Learn Anything](https://medium.com/learn-anything)
 
 ## Compilers
@@ -117,7 +117,7 @@
 
 ## Compression
 
-- [Realtime Data compression](http://fastcompression.blogspot.nl/)
+- [Realtime Data Compression](http://fastcompression.blogspot.nl/)
 
 ## Computer Graphics
 
@@ -138,7 +138,7 @@
 
 ## Design
 
-- [Domain Driven design](http://dddweekly.com/)
+- [Domain Driven Design](http://dddweekly.com/)
 - [Frank Chimero](https://frankchimero.com/blog/)
 - [Nicole Harris](http://whoisnicoleharris.com/#writing)
 - [Willis Wilkinson](http://williamwilkinson.com/)
@@ -182,7 +182,7 @@
 ## Haskell
 
 - [FPcomplete](https://www.fpcomplete.com/)
-- [Joy Of haskell](https://joyofhaskell.com/blog.html)
+- [Joy of Haskell](https://joyofhaskell.com/blog.html)
 - [Nikita Volkov](http://nikita-volkov.github.io/)
 - [Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/archives/)
 - [RUHaskell (Russian)](https://ruhaskell.org/)
@@ -197,10 +197,10 @@
 
 ## Java
 
-- [IT blues](http://itblues.pl)
-- [Stuff Gil says](http://stuff-gil-says.blogspot.nl/)
+- [IT Blues](http://itblues.pl)
+- [Stuff Gil Says](http://stuff-gil-says.blogspot.nl/)
 
-## Javascript
+## JavaScript
 
 - [2ality](http://2ality.com/)
 - [André Staltz](http://staltz.com/blog.html)
@@ -209,7 +209,7 @@
 - [Flavio Copes](https://flaviocopes.com/) - Guides and tutorials for developers.
 - [Ian Sinnott](http://blog.iansinnott.com/)
 - [Jason Format](https://jasonformat.com/)
-- [Javascript Playground](https://javascriptplayground.com)
+- [JavaScript Playground](https://javascriptplayground.com)
 - [Max Ogden](https://maxogden.com/index.html)
 - [Nick Balestra](http://nick.balestra.ch/)
 - [Perfection Kills](http://perfectionkills.com/)
@@ -220,7 +220,7 @@
 
 ## Language Design
 
-- [The big mud puddle](http://evincarofautumn.blogspot.nl/)
+- [The Big Mud Puddle](http://evincarofautumn.blogspot.nl/)
 
 ## Linux
 
@@ -237,44 +237,44 @@
 - [Apple ML Journal](https://machinelearning.apple.com/)
 - [Arg min](http://www.argmin.net/)
 - [Bradford Cross](http://www.bradfordcross.com)
-- [Brief history of machine learning](http://www.erogol.com/)
+- [Brief History of Machine Learning](http://www.erogol.com/)
 - [Christopher Olah](http://colah.github.io/)
 - [Clarifai](http://blog.clarifai.com/)
-- [Concept search on wikipedia](http://mccormickml.com/)
+- [Concept Search on Wikipedia](http://mccormickml.com/)
 - [Deep Dojo](http://deepdojo.com/)
 - [Deeplearning4j](https://deeplearning4j.org/eigenvector)
 - [DeepMath](https://www3.math.tu-berlin.de/numerik/www.deepmath.org/index.php)
-- [Deepmind](https://deepmind.com/blog/)
+- [DeepMind](https://deepmind.com/blog/)
 - [Distill](http://distill.pub/)
 - [Facebook Research](https://research.fb.com/blog/)
 - [FastML](http://www.fastml.com/)
 - [Google Research](https://research.googleblog.com/)
-- [I am trask](http://iamtrask.github.io/)
+- [I Am Trask](http://iamtrask.github.io/)
 - [Igor Babuschkin](https://babushk.in/archive.html)
 - [InFERENCe](http://www.inference.vc/)
-- [Inverse probability](http://inverseprobability.com/blog.html)
-- [I’m a bandit](https://blogs.princeton.edu/imabandit/)
+- [Inverse Probability](http://inverseprobability.com/blog.html)
+- [I’m a Bandit](https://blogs.princeton.edu/imabandit/)
 - [Kaggle Blog](http://blog.kaggle.com/)
-- [Machine learning theory](http://hunch.net/)
-- [Machine think](http://machinethink.net/blog/)
+- [Machine Learning Theory](http://hunch.net/)
+- [Machine Think](http://machinethink.net/blog/)
 - [Max Welling](http://scientificpearlsofwisdom.blogspot.nl/)
-- [Off the convex path](http://www.offconvex.org/)
+- [Off the Convex Path](http://www.offconvex.org/)
 - [OpenAI](https://blog.openai.com/)
 - [Peter Goldsborough](http://www.goldsborough.me/)
 - [Ryan Dahl](http://tinyclouds.org/)
 - [Sander Dieleman](http://benanne.github.io/)
-- [Silicon valley AI lab](https://svail.github.io/)
+- [Silicon Valley AI Lab](https://svail.github.io/)
 - [Somatic](http://www.somatic.io/blog)
 - [Sourabh Bajaj](http://sourabhbajaj.com/)
-- [Statistical modelling, causal inference and social science](http://andrewgelman.com/)
+- [Statistical Modelling, Causal Inference and Social Science](http://andrewgelman.com/)
 - [Stephan Hoyer](http://stephanhoyer.com/blog/)
 - [TensorFlow](https://medium.com/tensorflow)
-- [The neural perspective](https://theneuralperspective.com/)
-- [The spectator](http://blog.shakirm.com/)
+- [The Neural Perspective](https://theneuralperspective.com/)
+- [The Spectator](http://blog.shakirm.com/)
 - [Tim Head](http://betatim.github.io/)
-- [Triangle inequality](https://triangleinequality.wordpress.com/)
-- [Unintentionally inconsiderate](http://rocknrollnerd.github.io/)
-- [Wildml](http://www.wildml.com/)
+- [Triangle Inequality](https://triangleinequality.wordpress.com/)
+- [Unintentionally Inconsiderate](http://rocknrollnerd.github.io/)
+- [WildML](http://www.wildml.com/)
 
 ## macOS
 
@@ -291,10 +291,10 @@
 - [Comfortable Numbered](http://hardmath123.github.io/)
 - [Danny Gratzer](https://jozefg.bitbucket.io)
 - [Henry de Valence](https://www.hdevalence.ca/blog/)
-- [Math ⋂ programming](https://jeremykun.com/)
+- [Math ⋂ Programming](https://jeremykun.com/)
 - [Nicky Case](http://blog.ncase.me/)
 - [Quantitative Journey](http://outlace.com/)
-- [Random Ascii](https://randomascii.wordpress.com/)
+- [Random ASCII](https://randomascii.wordpress.com/)
 - [Shape Operator](http://www.shapeoperator.com/)
 - [Shtetl-Optimized](https://www.scottaaronson.com/blog/) - The Blog of Scott Aaronson.
 - [Steven Wittens](http://acko.net/)
@@ -302,7 +302,7 @@
 
 ## Natural Language Processing
 
-- [Natural Language processing NL](https://nlpers.blogspot.nl/)
+- [Natural Language Processing NL](https://nlpers.blogspot.nl/)
 
 ## Networking
 
@@ -311,7 +311,7 @@
 
 ## Node
 
-- [Node as we go](http://blog.trevnorris.com/)
+- [Node as We Go](http://blog.trevnorris.com/)
 
 ## Optimization
 
@@ -321,7 +321,7 @@
 
 - [Perl Tricks](http://perltricks.com/)
 
-## Php
+## PHP
 
 - [Nikic](http://nikic.github.io/)
 
@@ -332,7 +332,7 @@
 
 ## Privacy
 
-- [Spread privacy](https://spreadprivacy.com/) - DuckDuckGo blog.
+- [Spread Privacy](https://spreadprivacy.com/) - DuckDuckGo blog.
 
 ## Programming
 
@@ -372,14 +372,14 @@
 - [Chris Aniszczyk](http://aniszczyk.org/)
 - [Coding Horror](https://blog.codinghorror.com/)
 - [Command-z](http://zaidsyed.com/)
-- [Daily Wtf](http://thedailywtf.com/)
+- [Daily WTF](http://thedailywtf.com/)
 - [Dan Luu](https://danluu.com/)
 - [Dave Beazley](http://www.dabeaz.com/blog.html)
 - [David R. Maclver](http://www.drmaciver.com/blog/)
 - [Diaries of a Madman](https://asylum.madhouse-project.org/blog/archives/)
 - [Dont Panic](http://chrismatheson.github.io/)
 - [Dosync](http://swannodette.github.io/)
-- [Dr. bunsen](http://www.drbunsen.org/archives/)
+- [Dr. Bunsen](http://www.drbunsen.org/archives/)
 - [Drew Devault](https://drewdevault.com/)
 - [Dustin Curtis](https://dcurt.is/)
 - [Edne](http://edne.net/)
@@ -410,7 +410,7 @@
 - [Jimmy Cuadra](https://www.jimmycuadra.com/)
 - [Joe Duffy](http://joeduffyblog.com/)
 - [Joel on Software](https://www.joelonsoftware.com/)
-- [John D. cook](https://www.johndcook.com/blog/)
+- [John D. Cook](https://www.johndcook.com/blog/)
 - [Jon Gjengset](https://thesquareplanet.com/blog/)
 - [Juan Benet](http://juan.benet.ai/)
 - [Julia Evans](http://jvns.ca/)
@@ -443,9 +443,8 @@
 - [Okmij](http://okmij.org/ftp/)
 - [Oleg Kiselyov](http://okmij.org/ftp/)
 - [Pointers Gone Wild](https://pointersgonewild.com/)
-- [Preshing on programming](http://preshing.com/)
-- [Programming in the twenty first century](http://prog21.dadgum.com/)
-- [Programming in twenty-first century](http://prog21.dadgum.com/)
+- [Preshing on Programming](http://preshing.com/)
+- [Programming in the Twenty First Century](http://prog21.dadgum.com/)
 - [Randall Degges](https://www.rdegges.com/)
 - [Robot Lolita](http://robotlolita.me/)
 - [Rok Garbas](https://garbas.si)
@@ -457,20 +456,20 @@
 - [Saudi Metz](https://www.sandimetz.com/blog/)
 - [Schmidt's Foolish Manifesto](https://blog.afoolishmanifesto.com/)
 - [Scott Nonnenberg](https://blog.scottnonnenberg.com/)
-- [Send more paramedics](http://blog.fogus.me/)
+- [Send More Paramedics](http://blog.fogus.me/)
 - [Seph](https://josephg.com/blog/)
 - [Steve Losh](http://stevelosh.com/blog/)
 - [Steve Yegge](https://steve-yegge.blogspot.nl/)
-- [Stevey’s rants](http://steve-yegge.blogspot.nl/)
+- [Stevey’s Rants](http://steve-yegge.blogspot.nl/)
 - [Stratechery](https://stratechery.com/)
-- [Stuff With Stuff](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
+- [Stuff with Stuff](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
 - [Sudoscript](http://sudoscript.com/)
 - [Sugar Pirate](https://medium.com/@sugarpirate)
 - [Susan J. Fowler](https://www.susanjfowler.com/blog/?category=Lessons+Learned)
 - [Tapasweni Pathak](https://tapaswenipathak.wordpress.com/)
 - [Tedunagst](http://www.tedunangst.com/flak/)
-- [The old new thing](https://blogs.msdn.microsoft.com/oldnewthing/)
-- [Thoughts from the red planet](http://nathanmarz.com/archives)
+- [The Old New Thing](https://blogs.msdn.microsoft.com/oldnewthing/)
+- [Thoughts from the Red Planet](http://nathanmarz.com/archives)
 - [Tonsky](http://tonsky.livejournal.com/)
 - [Umputun](http://p.umputun.com/)
 - [Xero](http://blog.xero.nu/)
@@ -483,7 +482,7 @@
 
 ## Quantum Computing
 
-- [Schtect-optimised](http://www.scottaaronson.com/blog/)
+- [Schtect-Optimised](http://www.scottaaronson.com/blog/)
 
 ## React
 
@@ -520,16 +519,16 @@
 
 ## Security
 
-- [Devs love security](http://devs.cloudimmunity.com)
-- [Krebs on security](https://krebsonsecurity.com/)
+- [Devs Love Security](http://devs.cloudimmunity.com)
+- [Krebs on Security](https://krebsonsecurity.com/)
 - [Ray Wang](https://raywang.tech/archives/)
 - [Simone Margaritelli](https://www.evilsocket.net/)
 - [Troy Hunt](https://www.troyhunt.com/)
-- [Zdziarski's blog of things](https://www.zdziarski.com/blog/)
+- [Zdziarski's Blog of Things](https://www.zdziarski.com/blog/)
 
 ## Startups
 
-- [Elad's blog](http://blog.eladgil.com/)
+- [Elad's Blog](http://blog.eladgil.com/)
 - [Paul Graham](http://www.paulgraham.com/articles.html)
 
 ## Statistics
@@ -539,9 +538,9 @@
 ## Swift
 
 - [Ankit](http://ankit.im)
-- [Ash furrow](https://ashfurrow.com/)
-- [Eon codes](http://eon.codes)
-- [Fresh swift](http://freshswift.net/)
+- [Ash Furrow](https://ashfurrow.com/)
+- [Eon Codes](http://eon.codes)
+- [Fresh Swift](http://freshswift.net/)
 - [Joe Groff](http://duriansoftware.com/joe/index.html) - Works on Swift languge at Apple.
 - [Michael Kyriacou](http://codeforcaffeine.com/)
 - [NSHipster](http://nshipster.com/)
@@ -556,7 +555,7 @@
 - [Startechery](https://stratechery.com/)
 - [Tech Specs](https://techspecs.blog/)
 
-## V8 engine
+## V8 Engine
 
 - [Wingolog](https://wingolog.org/)
 
@@ -567,34 +566,34 @@
 
 ## Web
 
-- [Advanced web machinery](https://advancedweb.hu/)
-- [Growing With the Web](http://www.growingwiththeweb.com/p/explore.html?t=Computer%20science)
+- [Advanced Web Machinery](https://advancedweb.hu/)
+- [Growing with the Web](http://www.growingwiththeweb.com/p/explore.html?t=Computer%20science)
 - [High Scalability](http://highscalability.com/)
 - [Josh Habdas](https://habd.as/)
 - [Monica Dinclescu](https://meowni.ca/)
 - [Tomek Wiszniewski](http://tomek.wiszniewski.cc/)
 
-## Webgl
+## WebGL
 
-- [Brandon jones](http://blog.tojicode.com/)
+- [Brandon Jones](http://blog.tojicode.com/)
 
 ## Other
 
 - [Daring Fireball](https://til.hashrocket.com/)
 - [Dave Lee](http://heydave.org/)
 - [Dean Sherwood](http://deansherwood.com/deansblog)
-- [Disregard Everything I say](http://disregardeverythingisay.com/)
+- [Disregard Everything I Say](http://disregardeverythingisay.com/)
 - [Pavel Miroshenko](https://pavel.miroshnichen.co/)
 - [Steve Pavlina](https://www.stevepavlina.com/blog/)
-- [Today I learned](https://til.hashrocket.com/)
+- [Today I Learned](https://til.hashrocket.com/)
 
 ## Related
 
-- [Data science blogs](https://github.com/rushter/data-science-blogs#readme)
-- [Data science blogs](https://www.cybrhome.com/topic/data-science-blogs)
-- [Engineering blogs of companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies)
-- [Engineering blogs](https://github.com/kilimchoi/engineering-blogs#readme)
-- [Programming blog list](http://danluu.com/programming-blogs/)
+- [Data Science Blogs](https://github.com/rushter/data-science-blogs#readme)
+- [Data Science Blogs](https://www.cybrhome.com/topic/data-science-blogs)
+- [Engineering Blogs of Companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies)
+- [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
+- [Programming Blog List](http://danluu.com/programming-blogs/)
 
 ---
 
