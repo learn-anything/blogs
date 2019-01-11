@@ -254,6 +254,7 @@
 - [Inverse Probability](http://inverseprobability.com/blog.html)
 - [I’m a Bandit](https://blogs.princeton.edu/imabandit/)
 - [Kaggle Blog](http://blog.kaggle.com/)
+- [Lilian Weng](https://lilianweng.github.io/lil-log/)
 - [Machine Learning Theory](http://hunch.net/)
 - [Machine Think](http://machinethink.net/blog/)
 - [Max Welling](http://scientificpearlsofwisdom.blogspot.nl/)
