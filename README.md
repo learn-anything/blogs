@@ -9,6 +9,7 @@
 
 - [AI](#ai)
 - [Android](#android)
+- [Biology](#biology)
 - [Blockchain](#blockchain)
 - [Blog Aggregator](#blog-aggregator)
 - [Brain Computer Interface](#brain-computer-interface)
@@ -78,6 +79,10 @@
 ## Android
 
 - [Joe Birch](https://medium.com/@hitherejoe)
+
+## Biology
+
+- [Bits of DNA](https://liorpachter.wordpress.com/) - Reviews and commentary on computational biology by Lior Pachter.
 
 ## Blockchain
 
