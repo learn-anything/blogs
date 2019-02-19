@@ -577,6 +577,7 @@
 - [Josh Habdas](https://habd.as/)
 - [Monica Dinclescu](https://meowni.ca/)
 - [Tomek Wiszniewski](http://tomek.wiszniewski.cc/)
+- [Nikita Sobolev](https://sobolevn.me/)
 
 ## WebGL
 
