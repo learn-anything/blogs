@@ -86,6 +86,8 @@
 
 ## Blockchain
 
+- [Acyclic Labs](https://medium.com/acycliclabs/)
+- [Blockchained India](https://medium.com/blockchainedindia/)
 - [Karl Tech](https://karl.tech/)
 
 ## Blog Aggregator
