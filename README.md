@@ -600,6 +600,7 @@
 - [Engineering Blogs of Companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies)
 - [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
 - [Programming Blog List](http://danluu.com/programming-blogs/)
+- [Awesome Personal Blogs](https://github.com/jkup/awesome-personal-blogs#readme)
 
 ---
 
