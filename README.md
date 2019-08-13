@@ -86,6 +86,7 @@
 
 ## Blockchain
 
+- [Build Blockchain](https://www.buildblockchain.tech/newsletter/issues/)
 - [Karl Tech](https://karl.tech/)
 
 ## Blog Aggregator
