@@ -64,8 +64,6 @@
 - [Other](#other)
 - [Related](#related)
 
----
-
 ## AI
 
 - [Adam Paszke](http://apaszke.github.io/posts.html)
