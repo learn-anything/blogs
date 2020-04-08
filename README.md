@@ -105,6 +105,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [Boolean Knot](https://www.booleanknot.com/blog/)
 - [Yogthos](http://yogthos.net/)
+- [Alexander Oloo](https://alexanderoloo.com/)
 
 ## Company Blogs
 
