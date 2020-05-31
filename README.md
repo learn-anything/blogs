@@ -547,6 +547,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Michael Kyriacou](http://codeforcaffeine.com/)
 - [NSHipster](http://nshipster.com/)
 - [Oleg Dreyman](https://medium.com/@olegdreyman)
+- [Khoa](https://github.com/onmyway133/blog/issues) - Blogs with GitHub issues.
 - [Silver fox](https://silverfox.be/blog/)
 - [Swift by Sundell](https://www.swiftbysundell.com/)
 - [Vinh nguyen](https://ninjapro.wordpress.com/)
@@ -603,4 +604,3 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
-
