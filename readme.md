@@ -1,8 +1,6 @@
-# Blogs [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+# Blogs [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 
-_Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
-
-#### Contents
+_Please read [contribution guidelines](contributing.md) before contributing._
 
 - [AI](#ai)
 - [Android](#android)
@@ -593,14 +591,14 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Related
 
-- [Data Science Blogs](https://github.com/rushter/data-science-blogs#readme)
+- [Data Science Blogs](https://github.com/rushter/data-science-blogs)
 - [Data Science Blogs](https://www.cybrhome.com/topic/data-science-blogs)
 - [Engineering Blogs of Companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies)
-- [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
+- [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [Programming Blog List](http://danluu.com/programming-blogs/)
-- [Awesome Personal Blogs](https://github.com/jkup/awesome-personal-blogs#readme)
+- [Awesome Personal Blogs](https://github.com/jkup/awesome-personal-blogs)
 
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
+[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
