@@ -68,6 +68,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Ritchie Ng](http://www.ritchieng.com/news/)
 - [Rylan Schaeffer](http://rylanschaeffer.github.io/content/research.html)
 - [The BAIR Blog](http://bair.berkeley.edu/blog/about/)
+- [Becoming Human](https://becominghuman.ai/) - News, Info and Tutorials on Artificial Intelligence, Machine Learning, Deep Learning, Big Data and what it means for Humanity.
 
 ## Android
 
