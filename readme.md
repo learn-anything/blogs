@@ -441,6 +441,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Msol](https://msol.io/blog/)
 - [Nick Craver](https://nickcraver.com/blog/)
 - [Nick Farina](http://nfarina.com/)
+- [Null Program](https://nullprogram.com/) - By Chris Wellons
 - [Okmij](http://okmij.org/ftp/)
 - [Oleg Kiselyov](http://okmij.org/ftp/)
 - [Pointers Gone Wild](https://pointersgonewild.com/)
