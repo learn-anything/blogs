@@ -542,6 +542,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Elad's Blog](http://blog.eladgil.com/)
 - [Paul Graham](http://www.paulgraham.com/articles.html)
+- [Jakub Pomykała](https://jpomykala.com/)
 
 ## Statistics
 
