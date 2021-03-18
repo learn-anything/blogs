@@ -19,6 +19,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [CSS](#css)
 - [Data Science](#data-science)
 - [Design](#design)
+- [Economics](#economics)
 - [Functional Programming](#functional-programming)
 - [Games](#games)
 - [Go](#go)
@@ -142,6 +143,16 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Frank Chimero](https://frankchimero.com/blog/)
 - [Nicole Harris](http://whoisnicoleharris.com/#writing)
 - [Willis Wilkinson](http://williamwilkinson.com/)
+
+## Economics
+
+- [Askblog](https://www.arnoldkling.com/blog/)
+- [Freakonomics](https://freakonomics.com/)
+- [Greg Mankiw](https://gregmankiw.blogspot.com/)
+- [Marginal Revolution](https://marginalrevolution.com/)
+- [Matthew Wildrick Thomas](https://mattwthomas.com/blog/)
+- [The Grumpy Economist](https://johnhcochrane.blogspot.com/)
+- [Theory Class](https://theoryclass.wordpress.com/)
 
 ## Functional Programming
 
