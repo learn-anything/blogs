@@ -286,6 +286,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Triangle Inequality](https://triangleinequality.wordpress.com/)
 - [Unintentionally Inconsiderate](http://rocknrollnerd.github.io/)
 - [WildML](http://www.wildml.com/)
+- [Machine Learning Mastery](https://machinelearningmastery.com/blog/) - ML blog with many examples.
 
 ## macOS
 
