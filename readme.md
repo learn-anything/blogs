@@ -311,7 +311,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Shtetl-Optimized](https://www.scottaaronson.com/blog/) - The Blog of Scott Aaronson.
 - [Steven Wittens](http://acko.net/)
 - [The Polymath](https://polymathprojects.org/)
-- [Wootube – Find joy in learning mathematics](https://misterwootube.com/)
 
 ## Natural Language Processing
 
