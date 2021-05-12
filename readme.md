@@ -9,7 +9,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Blog Aggregator](#blog-aggregator)
 - [Brain Computer Interface](#brain-computer-interface)
 - [C](#c)
-- [C++](#c++)
+- [C++](#c-1)
 - [Clojure](#clojure)
 - [Company Blogs](#company-blogs)
 - [Compilers](#compilers)
