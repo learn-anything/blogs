@@ -214,6 +214,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## JavaScript
 
 - [2ality](http://2ality.com/)
+- [Andrej Gajdos](https://andrejgajdos.com/blog/) - Blog about development in Javascript
 - [André Staltz](http://staltz.com/blog.html)
 - [David Walsh](https://davidwalsh.name/tutorials/features)
 - [Feross](https://feross.org/)
