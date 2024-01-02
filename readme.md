@@ -352,6 +352,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [0xDE](http://11011110.livejournal.com/)
 - [Accidentally Quadratic](http://accidentallyquadratic.tumblr.com/)
 - [Aerotwist](https://aerotwist.com/)
+- [Ahmed Tarek](https://www.developmentsimplyput.com/blog) - Software Engineering blog about all aspects of Software Engineering and Development. Here you can find best practices, tutorials,... and more.
 - [Aidanf](http://www.aidanf.net/)
 - [Akullpp](https://akullpp.com)
 - [Alex Fedoseev](https://alexfedoseev.com/blog)
